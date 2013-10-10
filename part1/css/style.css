@@ -11,6 +11,7 @@ h1, h2 {
 	-webkit-box-shadow: 6px 6px 5px rgba(128,128,128,0.2);
 	box-shadow:         6px 6px 5px rgba(128,128,128,0.2);
 	border: solid 1px #CCCC00;
+	font-family: Arial;
 }
 
 #header {
